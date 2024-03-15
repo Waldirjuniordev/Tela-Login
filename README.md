@@ -10,5 +10,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 <br>
-<img src="![Tela de Login](https://github.com/Waldirjuniordev/Tela-Login/assets/161911826/14b66026-c37e-4296-85c4-c9cd0a7beed1)
-"/>
+<img src="https://github.com/Waldirjuniordev/Tela-Login/blob/main/Tela%20de%20Login.jpg?raw=true"/>
